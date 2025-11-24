@@ -1,0 +1,23 @@
+# ============================
+# SoulSync App Theme (TOML)
+# Calm Empathy Palette
+# ============================
+
+[theme]
+
+# Base UI Colors
+primaryColor = "#A887D1"         # Muted Mauve (main brand color)
+backgroundColor = "#F8F5F2"      # Warm Ivory (soft comforting background)
+secondaryBackgroundColor = "#f1ddcbff"   # Pale Blue Mist (cards, inputs)
+textColor = "#2F2F2F"            # Charcoal Gray (main text)
+
+# Accent Colors
+accentColor = "#7BC4C4"          # Serene Teal (buttons, active states)
+
+# Optional Additional Custom Values
+[custom]
+softLavender = "#C8B6FF"
+softSlate = "#5E6472"
+success = "#7BC4C4"
+warn = "#F6C177"
+error = "#D95F5F"
